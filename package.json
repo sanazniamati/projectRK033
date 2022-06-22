@@ -1,13 +1,19 @@
 {
-  "name": "projectrk031",
+  "name": "projectrk030",
   "version": "0.1.0",
   "private": true,
+  "description": "To drag and drop groups with React-Konva",
+  "keywords": [
+    "react","react-konva","events","Rect"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "konva": "^8.3.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-konva": "^18.1.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
